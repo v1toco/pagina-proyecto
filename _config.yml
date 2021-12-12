@@ -1,3 +1,5 @@
 theme: jekyll-theme-leap-day
-
-title: GIULI
+title: Leap Day theme
+description: Leap Day is a theme for GitHub Pages.
+show_downloads: true
+google_analytics:
