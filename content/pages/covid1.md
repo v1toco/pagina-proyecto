@@ -1,3 +1,3 @@
 ## CANTIDAD DE CASOS CONFIRMADOS DE COVID-19 POR REGIÓN ENTRE MARZO 2020 Y OCTUBRE 2021
 
-![Imagen](/content/images/casos_por_region.png)
+![Imagen](/PAGINA-PROYECTO/content/images/casos_por_region.png)
