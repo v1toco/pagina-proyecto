@@ -14,9 +14,11 @@ Como el propósito del proyecto es intentar relacionar los efectos de la pandemi
 
 Primero utilizaremos la información correspondiente a la cantidad de casos registrados por region, por lo que modificamos la informacion del archivo 'CasosTotalesCumulativo_T.csv' ubicado en [esta carpeta del repositorio](https://github.com/MinCiencia/Datos-COVID19/tree/master/output/producto3)
 
-Al graficar los resultados por región obtenemos lo siguiente
-![Imagen](/images/casos_por_region.png)
+Al graficar los resultados por región obtenemos lo siguiente:
 
+![Imagen](/content/images/casos_por_region.png)
+
+[LINK PARA VER MAS GRANDE](/content/pages/covid1.md)
 ```markdown
 Syntax highlighted code block
 
