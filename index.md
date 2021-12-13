@@ -7,7 +7,7 @@ INTEGRANTES:
 
 En este proyecto se utilizaron datos de la pandemia (que serán explicados más adelante) recopilados del Ministerio de Ciencia, Tecnología, Conocimiento e Innovación ([link al repositorio](https://github.com/MinCiencia/Datos-COVID19/)) y además; datos de la Tasa de Desocupación que fueron obtenidos desde la Base de Datos Estadísticos del Banco Central ([link a la pagina](https://si3.bcentral.cl/Siete/ES/Siete/Cuadro/CAP_EMP_REM_DEM/MN_EMP_REM_DEM13/ED_TDNRM2)).
 
-Como el propósito del proyecto es intentar relacionar los efectos de la pandemia al trabajo de los chilenos, nuestro analisis se enfocara entre ** Marzo 2020 y Septiembre 2021** ya que a nuestro criterio son los meses donde se puede evidenciar de mejor manera el efecto de la pandemia, debido a por ejemplo las restricciones sanitarias respecto al denominado ** Plan Paso a Paso**.
+Como el propósito del proyecto es intentar relacionar los efectos de la pandemia al trabajo de los chilenos, nuestro analisis se enfocara entre __Marzo 2020 y Septiembre 2021__ ya que a nuestro criterio son los meses donde se puede evidenciar de mejor manera el efecto de la pandemia, debido a por ejemplo las restricciones sanitarias respecto al denominado __Plan Paso a Paso__.
 
 
 ### Data Covid-19
