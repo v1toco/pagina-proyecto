@@ -2,4 +2,4 @@
 
 ![Imagen](/images_pages/casos_por_region_g.png)
 
-[BACC](/./index.md)
+[BACk](../)
