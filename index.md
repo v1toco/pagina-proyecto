@@ -5,9 +5,10 @@ INTEGRANTES:
 - Ziyu Guo
 - Víctor Bórquez
 
-## DEFINICION CLAVE
+## DEFINICIONES CLAVES
 
-La Tasa de Desocupacion expresa el porcentaje de personas desocupadas dentro de la fuerza de trabajo, este último concepto reifere a todas personas mayores de 15 años que se encuentran vinculadas con el mercado laboral.
+- La Tasa de Desocupacion expresa el porcentaje de personas desocupadas dentro de la fuerza de trabajo, este último concepto reifere a todas personas mayores de 15 años que se encuentran vinculadas con el mercado laboral.
+- Cuando se hable acerca de la 'positividad' en este proyecto nos estamos refiriendo al porcentaje de PCR que otorgan resultado positivo.
 
 En este proyecto se utilizaron datos de la pandemia (que serán explicados más adelante) recopilados del Ministerio de Ciencia, Tecnología, Conocimiento e Innovación ([link al repositorio](https://github.com/MinCiencia/Datos-COVID19/)) y además; datos de la Tasa de Desocupación que fueron obtenidos desde la Base de Datos Estadísticos del Banco Central ([link a la pagina](https://si3.bcentral.cl/Siete/ES/Siete/Cuadro/CAP_EMP_REM_DEM/MN_EMP_REM_DEM13/ED_TDNRM2)).
 
