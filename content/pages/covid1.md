@@ -1,6 +1,6 @@
 # GRÁFICO CASOS CONFIRMADOS
 
-## Cantidad de casos confirmados de COVID-19 por región entre marzo 2020 y octubre 2021
+## Cantidad de casos confirmados de COVID-19 entre marzo 2020 y octubre 2021
 
 ![Imagen](/images_pages/casos_por_region_g.png)
 
