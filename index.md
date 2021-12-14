@@ -22,26 +22,16 @@ Debido a que tener 2000 contagiados por mes en la región Metropolitana (donde v
 
 [PARA MAYOR INFORMACIÓN](/content/pages/covid1.md)
 
-#### Pcr men:
+#### Pcr mensuales:
 
-yaaa
-```markdown
-Syntax highlighted code block
+Debido a que la cantidad total de casos era una variable muy general, decidimos ocupar un dataframe (perteneciente al mismo repositorio) que contiene información sobre la cantidad de PCR realizados por comuna.
 
-# Header 1
-## Header 2
-### Header 3
+![Imagen](/content/images/positividad_porcentaje.png)
 
-- Bulleted
-- List
+A primera vista tenemos un grafico algo desordenado y complicado de leer cuando uno intenta identificar una region en especifico, hay colores que se repiten debido a la cantidad de regiones por lo cual tendremos que cambiar nuestra manera de vizualizar los datos
 
-1. Numbered
-2. List
+[ANALISIS POR TRAMOS DE MESES](/content/pages/pcr1.md)
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
