@@ -15,6 +15,9 @@ Datos recopilados gracias a la utilización de la API del Banco Central, luego d
 
 ![Im](/content/images/tasas_regiones.png)
 
+Al observar el gráfico nos damos cuenta que entre Junio y Octubre de 2020 en practicamente todas las regiones se puede evidenciar un aumento considerable en la tasa de desocupación, por lo que ahora habría que revisar que es lo que pasa con los Datos de la pandemia durante este rango de meses
+
+
 ### Data Covid-19
 #### Cantidad de positivos mensuales:
 Primero utilizaremos la información correspondiente a la cantidad de casos registrados por region, por lo que modificamos la informacion del archivo 'CasosTotalesCumulativo_T.csv' ubicado en [esta carpeta del repositorio](https://github.com/MinCiencia/Datos-COVID19/tree/master/output/producto3).
@@ -46,12 +49,3 @@ Para realizar este analisis nos enfocaremos en la fase que estuvo (en promedio) 
 ![Imagnn](/content/images/paso_a_paso.png)
 
 Debido a que el Plan Paso a Paso fue implementado recién desde Julio de 2020, por la gran cantidad de casos, el gobierno tomo esta medida que puede ser un factor clave a considerar respecto al alza en la tasa de desempleo justamente entre los meses de Julio y Octubre de 2020, ya que si no se puede salir de las casas es muy probable que el Desempleo aumente, por lo que la tasa de Desocupación en consecuencia también debería aumentar
-
-
-
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/v1toco/pagina-proyecto/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
