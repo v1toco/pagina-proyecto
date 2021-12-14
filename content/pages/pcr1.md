@@ -26,7 +26,7 @@ Principales acontecimientos:
 
 ### Grafico 3 (JULIO 2021 - OCTUBRE 2021)}
 
-![Imagen](/images_pages/positividad_tramo2.png)
+![Imagen](/images_pages/positividad_tramo3.png)
 
 Siguiendo con la tendencia de los últimos meses, en este tramo podemos observar que todas las tasas de positividad bajan considerablemente (todas bajo un 5%), esto se debe
 
