@@ -6,7 +6,7 @@
 
 ### Grafico 1 (ABRIL 2020 - AGOSTO 2020)
 
-![Imagen](/images_pages/positividad_tramo1.png)
+![Imagen1](/images_pages/positividad_tramo1.png)
 
 Principales acontecimientos:
 
@@ -18,7 +18,7 @@ Principales acontecimientos:
 
 ### Grafico 2 (AGOSTO 2020 - JUNIO 2021)
 
-![Imagen](/images_pages/positividad_tramo2.png)
+![Imagen2](/images_pages/positividad_tramo2.png)
 
 1.- En este tramo de prácticamente 10 meses, la positividad de los casos confirmados nunca supera un 25%; es más, llega un punto al rededor de los primeros meses de 2021 donde la positividad por región oscila el 10% y todas las regiones tienen indices muy similares en estos meses.
 
@@ -26,7 +26,7 @@ Principales acontecimientos:
 
 ### Grafico 3 (JULIO 2021 - OCTUBRE 2021)}
 
-![Imagen](/images_pages/positividad_tramo3.png)
+![Imagen3](/images_pages/positividad_tramo3.png)
 
 Siguiendo con la tendencia de los últimos meses, en este tramo podemos observar que todas las tasas de positividad bajan considerablemente (todas bajo un 5%), esto se debe
 
