@@ -4,6 +4,8 @@
 
 ![Imagen](/images_pages/positividad_porcentaje.png)
 
+Debido a la poca legibilidad del grafico, dividimos la información de este en 3 tramos (que también son útiles para efectuar un analisis)
+
 ### Grafico 1 (ABRIL 2020 - AGOSTO 2020)
 
 ![Imagen1](/images_pages/positividad_tramo1.png)
